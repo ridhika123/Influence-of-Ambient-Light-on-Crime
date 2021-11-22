@@ -1,4 +1,4 @@
-# Influence-of-Ambient-Light-on-Crime
+# Influence of Ambient Light on Crime
 
 ## Abstract
 Driven by the fact that crime incurs major costs to the economy, studying the determinants of crime is of special importance. This paper studies the effect of ambient light on criminal activity in general, and in urban and rural areas in particular. I use a sharp regression discontinuity design, with daylight savings time as the exogenous shift in light. The model measures crime rates at two levels: daily and hourly. The overall effect on crime is ambiguous, with a decrease in robberies in rural areas, but an increase in aggravated assault. As expected, the effect is felt most in the hours directly affected by the shift in daylight and in rural areas in particular.
